@@ -1,0 +1,18 @@
+/* CSS Document */
+
+body { font-size:12px; margin:0px;}
+.border td{border:0px; border-collapse:collapse;}
+
+.usertext { width:250px;}
+
+.location{ line-height:24px; padding-left:10px}
+
+.biaoti{ text-align:center; width:100%; font-weight:bold; font-size:14px; background-image:url(../images/bottom.gif);color:#0033CC; letter-spacing:10px}
+
+.beizhu { width:200px; height:200px;}
+
+.length{width:2000px;}
+
+.STYLE1 {color: #FF0000}
+
+.search{ padding-left:480px;}

@@ -1,0 +1,53 @@
+@charset "utf-8";
+/**********************
+ * autor:Jikey        *
+ * time:2009-02-      *
+ * link:puag@qq.com   *
+ **********************/
+ 
+/********************** 总体样式 **********************/
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;padding:0;border:0;font-size:12px;}
+body{background: #d4e4f3 url(../images/bg.gif) repeat; color:#333;font-size:12px;font-family:Verdana,Arial,Helvetica,sans-serif,"宋体"; text-align:center;margin:0 auto;}
+h1{ font-size:20px}
+ul,ol{list-style-type:none;}
+select,input,img,select{vertical-align:middle;}
+.input{ height:17px;border:1px solid #575757;}
+select{border:1px solid #575757;}
+select option{ background:#dae5f5;}
+select .l1{ background:#fff;}
+select .l2{ background:#435269; color:#fff;}
+a{text-decoration:none;}
+a:link{color:#006; font-size:12px; font-family:"黑体";}
+a:visited{color:#000;}
+a:hover,a:active,a:focus{color:#000;}
+a:hover{
+	text-decoration:none;
+	color: #069;
+	font-size: 12px;
+	font-family:"黑体";
+}
+.clear{clear:both;}
+
+/********************** 总体样式 **********************/
+
+/********************* 表格样式 ********************/
+.tborder{border-collapse:collapse; text-align:center;margin-left:auto;margin-right:auto;border:3px solid #8db2e3;}
+.tborder th{border:1px solid #8db2e3;background:url(../images/titlebg.gif) repeat-x #f0fdfd;color:#15428b;}
+.tborder td{border:1px solid #8db2e3;text-align:center; padding:3px; }
+.tborder tr {height:21px;}
+.input{ height:18px; line-height:18px; background:url(../images/tborderinput.gif) repeat-x; border:1px solid #adb5c6;}
+/********************* 表格样式2 ********************/
+.tborder2{border-collapse:collapse; text-align:center;margin-left:auto;margin-right:auto;border:3px solid #8db2e3;}
+.tborder2 th, .tborder2 td{border:1px solid #8db2e3;padding:4px;height:21px;}
+.tborder2 th{background:#f0fdfd;text-align:right;color:#15428b;}
+.tborder2 td{text-align:left;}
+.inputstyle{ height:18px; line-height:18px; background:url(../images/tborderinput.gif) repeat-x; border:1px solid #adb5c6;}
+.areastyle{background:url(../images/tborderinput.gif) repeat-x; border:1px solid #adb5c6;}
+.tdcenter{ text-align:center;}
+.tborder3{border-collapse:collapse;text-align:center;margin-left:auto;margin-right:auto; margin-top:10px;}
+.tborder3 th{border:1px solid #9fd6ff;padding:2px;background:#ebf5ff; color:#0054a7;text-align:right; padding:5px;}
+.tborder3 td{border:1px solid #9fd6ff;padding:2px;text-align:left; padding:5px;}
+.tborder3 tr {height:25px;}
+/********************** 按钮样式 **********************/
+.button_height20{BORDER: #66a4fa 1px solid;FONT-SIZE: 9pt;BACKGROUND: url(../images/bottom_over.gif);CURSOR: hand;HEIGHT: 22px;}
+.button_height20_over{BORDER: #66a4fa 1px solid;FONT-SIZE: 9pt;BACKGROUND: url(../images/bottom.gif);CURSOR: hand; HEIGHT: 22px;}

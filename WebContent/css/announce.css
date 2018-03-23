@@ -1,0 +1,139 @@
+/* ---------- announce ---------- */
+div.announce .table {
+	padding: 0px 2px;
+	margin-bottom: 10px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: solid 1px #dddddd;
+}
+
+div.announce .table li {
+	width: 720px;
+	height: 30px;
+	line-height: 30px;
+	margin-top:4px;
+	border-left: solid 1px #e4e4e4;
+	border-right: solid 1px #e4e4e4;
+	border-top: solid 1px #e4e4e4;
+	border-bottom: solid 1px #e4e4e4;
+}
+
+
+
+div.announce .table li.last {
+	border-bottom: none;
+}
+
+div.announce .table li a {
+	background-color: #f6f6f6;
+}
+
+div.announce .table li a:hover {
+	color: #ff0000;
+}
+
+div.announce  .right{
+	float: right;
+}
+
+div.announce .table li span {
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:5px;
+	width: 200px;
+	height: 10px;
+}
+div.announce .table li font {
+	margin-left:20px;
+	margin-right:20px;
+	width: 50px;
+	height: 10px;
+}
+
+div.announce .lianxi {
+	width: 210px;
+	height: 210px;
+	display: block;
+	clear: both;
+	margin-left:10px;
+	margin-bottom: 2px;
+	cursor: pointer;
+	overflow: hidden;
+	border: 1px solid #dbdbdb;
+	background: url(././images/fang.gif) 0px -120px #f9f9f9 no-repeat;
+}
+
+div.announce .lianxi img{
+	margin-top: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:5px;
+}
+
+div.announce .biaoti {
+	
+	font-size:12px;
+	color:black;
+
+}
+
+div.announceinfo .table {
+	padding: 0px 2px;
+	margin-bottom: 10px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: solid 1px #dddddd;
+}
+
+div.announceinfo .table li {
+	width: 700px;
+	line-height: 30px;
+	margin-top:4px;
+	border-left: solid 1px #e4e4e4;
+	border-right: solid 1px #e4e4e4;
+	border-top: solid 1px #e4e4e4;
+	border-bottom: solid 1px #e4e4e4;
+}
+
+div.announceinfo .table li.last {
+	border-bottom: none;
+}
+
+div.announceinfo .lianxi {
+	width: 210px;
+	height: 210px;
+	display: block;
+	clear: both;
+	margin-left:10px;
+	margin-bottom: 2px;
+	cursor: pointer;
+	overflow: hidden;
+	border: 1px solid #dbdbdb;
+	background: url(././images/fang.gif) 0px -120px #f9f9f9 no-repeat;
+}
+
+div.announceinfo .comment {
+	width: 700px;
+	clear: both;
+	font-size:14px;
+	margin-bottom: 2px;
+	cursor: pointer;
+	white-space:normal;
+	word-spacing: inherit;
+}
+
+div.announceinfo .biaoti {
+	
+	font-size:16px;
+	color:red;
+	margin-right: 20px;
+}
+
+div.announceinfo .lianxi img{
+	margin-top: 5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-bottom:5px;
+}

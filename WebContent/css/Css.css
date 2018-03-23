@@ -1,0 +1,8 @@
+/* CSS Document */
+table {border :1px solid #9AA4FC;border-collapse:collapse }
+td{border :1px solid #9AA4FC;line-height:24px; }
+body {margin :0px; font-size:12px;}
+.location {line-hight:30px;padding-left:10px;}
+.pagetitle {text-align :center; width:100%;font-weight: bold;font-size:12px;background-color:#0099FF;line-hight:26px;letter-spacing:10px;}
+.UserInfo_txt{width:100px}
+.btn{width:80px;}

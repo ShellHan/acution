@@ -1,0 +1,35 @@
+@charset "utf-8";
+/**********************
+ * autor:Jikey        *
+ * time:2009-02-      *
+ * link:puag@qq.com   *
+ **********************/
+#header{ width:100%; height:67px; background:url(../images/topbg.gif) repeat-x;}
+#SysLogo{margin:17px 0 0 40px; font-family:'黑体'; font-size:20px; color:#0086d1; float:left;}
+#AdminInfo{height:25px; margin:17px 40px 0 0; padding:0 5px; border:1px solid #6d9bcc; background:#bfdbff; float:right;}
+#AdminInfo p{ line-height:200%;}
+#AdminInfo a:hover{ color:#f00;}
+
+#UserBar, #MainBody h1{ text-align:left; text-indent:2em;height:25px; line-height:25px;}
+#UserBar{ width:100%; border-bottom:1px solid #9fbce0; margin:0; background:#e8f1fa;}
+#MainBody{ height:500px; text-align:center; border:1px solid #6d9bcc; margin:5px; background:#fff;}
+#MainBody h1{ width:98%;border-bottom:1px solid #eee;text-indent:1em; color:#004ea2;}
+#DataBox{ width:98%; border:1px solid #eee;}
+
+.Tab10Px{ margin:10px 0 0;}
+.mycountTable {margin-top:8px;width:95%;margin-left:auto; margin-right:auto;}
+.myTable{border-collapse:collapse;border: #9fd6ff 1px solid;}
+.myTable th{ font-size:14px; color:#1479bf; font-weight:bold; background:url(../images/mytable_bg.gif) repeat-x;}
+.myTable td,.myTable th{border: #9fd6ff 1px solid; height:26px; text-align:center;}
+.paytab{border: 4px solid #c8e1fb;padding:2px;}
+.error{ width:100%; margin:30px;}
+.errorimg{ float:left; margin:auto auto 10px 10px; padding-right:10px; border-right:1px solid #eee;}
+.errorinfo{ float:left; line-height:24px; margin:0 0 0 10px;}
+#queryMenu{ width:98%; margin:10px 0;text-align:left;}
+#queryMenu p{ line-height:200%;text-align:left;}
+#queryMenu ul{}
+#queryMenu li{display:block; float:left; padding:3px 4px; background:none; border:none;}
+#queryMenu a{background:none; border:none;}
+#queryMenu a:link{ color:#015a84;}
+#queryMenu a:visited{color:#015a84;}
+#queryMenu a:hover{ color:#bd0a01;}

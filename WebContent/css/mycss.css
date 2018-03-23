@@ -1,0 +1,91 @@
+/* CSS Document */
+body {
+	font-size: 12px;
+	margin: 1px;
+	line-height: 20px;
+}
+
+table {
+	border: 1px;
+	border-collapse: collapse;
+	line-height: 24px;
+}
+
+td {
+	border: 1px solid;
+	line-height: 24px;
+}
+
+.hr {
+	color: #666666;
+	background-color: #666666;
+	margin: auto;
+	width: 90%;
+}
+
+.location {
+	padding-left: 10px;
+	line-height: 24px;
+}
+
+.left {
+	padding-left: 20px;
+}
+
+.pagetitle {
+	font-size: 20px;
+	font-weight: bold;
+	color: #003366;
+	text-align: center;
+	width: 100%
+}
+
+.btn {
+	width: 80px;
+	text-align: center;
+}
+
+.RentInfo {
+	padding-left: 10px;
+	font-size: 12px;
+}
+
+.table {
+	algin: center;
+}
+
+.STYLE1 {
+	color: #FF0000
+}
+
+.search {
+	padding-left: 480px;
+}
+
+.bottom {
+	background: #efefef;
+	border: 1px solid #efefef;
+	width: 930;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bottom1 {
+	background: #efefef;
+	border: 1px solid #ccc;
+	width: 600;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bottom2 {
+	background: #efefef;
+	border: 1px solid #ccc;
+	width: 600;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.usertext {
+	width: 250px;
+}
